@@ -1,0 +1,1 @@
+# gh-pages-smart-device
